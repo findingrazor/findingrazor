@@ -2,8 +2,8 @@
 <br>
 <div>
   <a href="https://github.com/findingrazor"><a/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=findingrazor&show_icons=true&theme=dark&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findingrazor&layout=compact&langs_count=16&show_icons=true&theme=dark">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=findingrazor&show_icons=true&theme=dark&include_all_commits=true">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findingrazor&layout=compact&langs_count=16&show_icons=true&theme=dark">
 </div>
     
 ##
