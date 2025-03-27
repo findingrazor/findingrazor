@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/findingrazor">
   <img height="198em" width="500em" src="https://github-readme-stats.vercel.app/api?username=findingrazor&show_icons=true&theme=dark&hide=contribs,prs&include_all_commits=true">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findingrazor&layout=compact&langs_count=16&show_icons=true&theme=dark">
+  <img height="180em" width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findingrazor&layout=compact&langs_count=16&show_icons=true&theme=dark">
 </div>
     
 ##
@@ -26,7 +26,5 @@
 <div>
   <a href="mailto:clariamalotti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="www.linkedin.com/in/clarisse-amaral-bussolotti-7818882b0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href= target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=_blank>
-    
 </div>
 
