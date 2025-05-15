@@ -5,7 +5,7 @@
 <div display=flex>
   <img align=right width=110 src="https://media.tenor.com/RLgI4fQWhIYAAAAi/fantome-sexyfantome.gif">
   <h3 align=left>
-  Intro
+   »↠Intro
   </h3>
   <h4 align=left>
   Sou graduanda em Ciência da Computação e atualmente estou no terceiro período.<br>
@@ -18,7 +18,7 @@
 
 ##
 <h3 align=center>
-  Github Status
+  »↠Github Status↞«
 </h3>
 <div align="center">
   <a href="https://github.com/findingrazor"><a/>
@@ -28,7 +28,7 @@
     
 ##
 <h3 align=center>
-  Linguagens e Softwares
+  »↠Linguagens e Softwares↞«
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,7 +38,7 @@
 
 ##
 <h3 align=left>
-  Contatos
+  »↠Contatos
 </h3>
 <div>
   <a href="mailto:clariamalotti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
