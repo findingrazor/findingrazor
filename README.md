@@ -23,7 +23,7 @@
 <div align="center">
   <a href="https://github.com/findingrazor"><a/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=findingrazor&show_icons=true&theme=merko&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findingrazor&layout=compact&langs_count=6&show_icons=true&theme=merko">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findingrazor&layout=compact&show_icons=true&theme=merko">
 </div>
     
 ##
