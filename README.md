@@ -32,7 +32,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,css,html,js,eclipse,vscode,visualstudio,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,css,html,js,eclipse,vscode,visualstudio,mysql" />
   </a>
 </p>
 
