@@ -3,15 +3,16 @@
 </h1> 
 
 <div display=flex>
-  <img align=right width=110 src="https://media.tenor.com/RLgI4fQWhIYAAAAi/fantome-sexyfantome.gif">
+  <img align=right width=150 src="https://media.tenor.com/RLgI4fQWhIYAAAAi/fantome-sexyfantome.gif">
   <h3 align=left>
    »↠Intro
   </h3>
   <h4 align=left>
-  Sou graduanda em Ciência da Computação e atualmente estou no terceiro período.<br>
-    Este perfil é dedicado ao meu portfólio, onde vou postar meus trabalhos de<br>
-    faculdade e meus projetos pessoais com intuito de dar visibilidade ao que<br>
-    estou aprendendo no curso e fora dele<br>
+  🌱- Graduanda em Ciência da Computação 3/8<br>
+   💽- Portfólio de Projetos Pessoais e Acadêmicos<br>
+   ✨- Interesse em Back-End e Bancos de Dados<br>
+    🍋- Procurando Estágio na Área<br>
+    🐉- “O Oblívio é o Auge da Arte”
 </h4>
 </div>
 <br>
