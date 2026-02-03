@@ -8,7 +8,7 @@
    »↠Intro
   </h3>
   <h4 align=left>
-  🌱- Graduanda em Ciência da Computação 4/8<br>
+  🌱- Graduanda em Ciência da Computação 5/8<br>
    💽- Portfólio de Projetos Pessoais e Acadêmicos<br>
    ✨- Interesse em Back-End e Bancos de Dados<br>
     🍋- Procurando Estágio na Área<br>
