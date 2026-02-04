@@ -15,7 +15,7 @@
     📌- Estagiária na Prodemge<br>
     🪭- “O Oblívio é o Auge da Arte”
 </h4>
-<img width=50 src=https://media.tenor.com/ADbDAGyRAToAAAAi/junimo-stardew-valley.gif>
+<img width=70 src=https://media.tenor.com/ADbDAGyRAToAAAAi/junimo-stardew-valley.gif>
 </div>
 <br>
 
