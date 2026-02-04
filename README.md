@@ -3,7 +3,7 @@
 </h1> 
 
 <div display=flex>
-  <img align=right width=350 src="https://i.pinimg.com/originals/23/c9/a3/23c9a31478aeff806094f1b7a556d451.gif">
+  <img align=right width=350 src="https://i.pinimg.com/originals/8e/5b/bb/8e5bbb6e7f079aa12f0922249c36507f.gif">
   
   <h3 align=left>
    »↠Intro
@@ -62,10 +62,11 @@
 </h3>
 <div display=flex>
   <div>
+    <img align=right width=100 src="https://media.tenor.com/mdZZqg2oFMEAAAAi/hades-hades-the-game.gif">
   <a href="mailto:clariamalotti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
   <a href="https://www.linkedin.com/in/clarisse-amaral-bussolotti-7818882b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
     <a href="https://www.instagram.com/clariamalotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <img align=right width=100 src="https://media.tenor.com/mdZZqg2oFMEAAAAi/hades-hades-the-game.gif">
+    
 </div>
     <!-- <img align=right width=100 src="https://media.tenor.com/RLgI4fQWhIYAAAAi/fantome-sexyfantome.gif"> -->
 </div>
