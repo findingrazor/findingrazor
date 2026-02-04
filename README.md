@@ -8,11 +8,11 @@
    »↠Intro
   </h3>
   <h4 align=left>
-  🌱- Graduanda em Ciência da Computação 5/8<br>
-   💽- Portfólio de Projetos Pessoais e Acadêmicos<br>
-   ✨- Interesse em Back-End e Bancos de Dados<br>
-    🍋- Estagiária na Prodemge<br>
-    🐉- “O Oblívio é o Auge da Arte”
+  🍁- Graduanda em Ciência da Computação 5/8<br>
+   🎴- Portfólio de Projetos Pessoais e Acadêmicos<br>
+   🎯- Interesse em Back-End e Bancos de Dados<br>
+    📌- Estagiária na Prodemge<br>
+    🪭- “O Oblívio é o Auge da Arte”
 </h4>
 </div>
 <br>
