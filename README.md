@@ -3,7 +3,7 @@
 </h1> 
 
 <div display=flex>
-  <img align=right width=350 src="https://i.pinimg.com/originals/8e/5b/bb/8e5bbb6e7f079aa12f0922249c36507f.gif">
+  <img align=right width=350 src="https://i.pinimg.com/originals/74/77/09/747709913d8cc389d54d3ea88b182710.gif">
   
   <h3 align=left>
    »↠Intro
