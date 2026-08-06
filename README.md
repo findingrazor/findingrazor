@@ -1,21 +1,23 @@
-<h1 align="center">
+<div>
+  <img width=900 height=200 align=center src="https://i.pinimg.com/originals/74/cf/d7/74cfd7a3ed2162c60ba2b51b5bc85d61.gif">
+</div>
+
+<h2 align="center">
   ☆═━ Olá! Eu sou a Clarisse ━═☆
-</h1> 
+</h2> 
 
 <div display=flex>
-  <img align=right width=350 src="https://i.pinimg.com/originals/74/77/09/747709913d8cc389d54d3ea88b182710.gif">
-  
-  <h3 align=left>
-   »↠Intro
-  </h3>
+  <img align=right width=190 src="https://media.tenor.com/-IiE6nkUyTEAAAAi/jhin-league-of-legends.gif">
   <h4 align=left>
-  ★ - Graduanda em Ciência da Computação 5/8<br>
-  ★ - Portfólio de Projetos Pessoais e Acadêmicos<br>
-  ★ - Interesse em Back-End e Bancos de Dados<br>
-  ★ - Estagiária na Prodemge<br>
-  ★ - “O Oblívio é o Auge da Arte”
-</h4>
-<img width=70 src=https://media.tenor.com/ADbDAGyRAToAAAAi/junimo-stardew-valley.gif>
+   »↠Sobre Mim
+  </h4>
+  <p align=left>
+  ★ - Sou Graduanda em Ciência da Computação (6/8)<br>
+  ★ - Este é Meu Portfólio de Projetos Pessoais e Acadêmicos<br>
+  ★ - Tenho Interesse em Back-End e Bancos de Dados<br>
+  ★ - Sou Estagiária na Prodemge<br>
+  ★ - “O Oblívio é o Auge da Arte”<br>
+</p>
 </div>
 <br>
 
@@ -31,15 +33,6 @@
 </div> 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,css,html,js,ts,angular,eclipse,vscode,visualstudio,mysql,unrealengine" />
-  </a> -->
-    
-##
-<h3 align=center>
-  »↠Linguagens, Softwares e Frameworks↞«
-</h3>
-<p align="center">
-  <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -55,15 +48,28 @@
   <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</p>
+  </a> -->
+    
+##
+<h4 align=center>
+  »↠Linguagens, Softwares e Frameworks↞«
+</h4>
+<div display=flex>
+  <img align=left width=40 src="https://media.tenor.com/YvAZ_CtrtlMAAAAi/espeon.gif">
+  <img align=left width=40 src="https://media.tenor.com/P3AdoxkWid0AAAAi/umbreon-shiny.gif">
+  <p align="center">
+  <img width=500 src="https://skillicons.dev/icons?i=c,js,ts,html,css,java,php,python,gitlab,github,git,vscode,eclipse,mysql,figma" />
+  </p>
+</div>
+
 
 ##
-<h3 align=left>
+<h4 align=left>
   »↠Contatos
-</h3>
+</h4>
 <div display=flex>
   <div>
-    <img align=right width=100 src="https://media.tenor.com/mdZZqg2oFMEAAAAi/hades-hades-the-game.gif">
+    <!-- <img align=right width=100 src="https://media.tenor.com/mdZZqg2oFMEAAAAi/hades-hades-the-game.gif"> -->
   <a href="mailto:clariamalotti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
   <a href="https://www.linkedin.com/in/clarisse-amaral-bussolotti-7818882b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
     <a href="https://www.instagram.com/clariamalotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
