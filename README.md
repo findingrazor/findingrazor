@@ -55,7 +55,6 @@
   »↠Linguagens, Softwares e Frameworks↞«
 </h4>
 <div display=flex>
-  <img align=left width=40 src="https://media.tenor.com/YvAZ_CtrtlMAAAAi/espeon.gif">
   <img align=left width=40 src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif">
   <p align="center">
   <img width=500 src="https://skillicons.dev/icons?i=c,js,ts,html,css,java,php,python,gitlab,github,git,vscode,eclipse,mysql,figma" />
