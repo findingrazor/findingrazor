@@ -16,7 +16,6 @@
   ★ - Este é Meu Portfólio de Projetos Pessoais e Acadêmicos<br>
   ★ - Tenho Interesse em Back-End e Bancos de Dados<br>
   ★ - Sou Estagiária na Prodemge<br>
-  ★ - “O Oblívio é o Auge da Arte”<br>
 </p>
 </div>
 <br>
