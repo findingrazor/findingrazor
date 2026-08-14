@@ -7,7 +7,7 @@
 </h2> 
 
 <div display=flex>
-  <img align=right width=190 src="https://media.tenor.com/-IiE6nkUyTEAAAAi/jhin-league-of-legends.gif">
+  <img align=right width=170 src="https://media.tenor.com/-IiE6nkUyTEAAAAi/jhin-league-of-legends.gif">
   <h4 align=left>
    »↠Sobre Mim
   </h4>
